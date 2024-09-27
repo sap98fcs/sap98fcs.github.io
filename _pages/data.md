@@ -4,7 +4,6 @@ title: "Data"
 permalink: /data/
 author_profile: true
 redirect_from:
-  - /resume
 ---
 
 **The ANTIELAB Research Data Archive 反修例運動研究數據庫**
