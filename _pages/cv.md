@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find a copy of my CV [CV](/files/CV Fong Chi Shun.docx)
+You can find a copy of my [CV](/files/CV Fong Chi Shun.docx) here.
