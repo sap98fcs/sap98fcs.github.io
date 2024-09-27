@@ -13,7 +13,7 @@ Peer-reviewed Journal Article
 
 Book Chapter
 --------
-1.	**Fong, Chi Shun** and Yuen, Samson. (2021). Movement Leadership in an Era of Connective Action: A Study of Hong Kong’s Student-Led Umbrella Movement. In Cini Lorenzo, della Porta Donatella, and Guzmán-Concha Cesar (Eds.), <em>Student Movements in Late Neoliberalism (pp. 133 – 155)</em>. Palgrave Macmillan, Cham. [https://doi.org/10.1007/978-3-030-75754-0_6](https://doi.org/10.1007/978-3-030-75754-0_6).
+1.	**Fong, Chi Shun** and Yuen, Samson. (2021). Movement Leadership in an Era of Connective Action: A Study of Hong Kong’s Student-Led Umbrella Movement. In Cini Lorenzo, della Porta Donatella, and Guzmán-Concha Cesar (Eds.), <em>Student Movements in Late Neoliberalism </em>(pp. 133 – 155). Palgrave Macmillan, Cham. [https://doi.org/10.1007/978-3-030-75754-0_6](https://doi.org/10.1007/978-3-030-75754-0_6).
 
 Manuscript and working paper
 --------
