@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Fong_Gary.jpg"
   name             : "Gary C.S Fong"
   pronouns         : #NA  
   bio              : "PhD Candidate at Penn State"
