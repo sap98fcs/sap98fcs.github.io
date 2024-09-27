@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Gary Fong / Personal Website"
 title_separator          : "-"
 name                     : &name "Gary Fong"
-description              : &description "PhD Candidate at Penn state"
+description              : &description "PhD Candidate at Penn State"
 url                      : https://sap98fcs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "he/his/him"  
+  bio              : "PhD Candidate at Penn State"
+  location         : "State College, PA"
+  employer         : "Penn State U"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cjf5914@psu.edu/sap98fcs@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
