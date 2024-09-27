@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gary Fong / Personal Website"
+title                    : "Gary Fong / 方志信"
 title_separator          : "-"
 name                     : &name "Gary Fong"
 description              : &description "PhD Candidate at Penn State"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : "he/his/him"  
+  name             : "Gary C.S Fong"
+  pronouns         : #NA  
   bio              : "PhD Candidate at Penn State"
   location         : "State College, PA"
   employer         : "Penn State U"
