@@ -26,7 +26,7 @@ Working paper
   * International Relations (Fall 2022)
 * The University of Hong Kong:
   * Media in the Age of Globalization (Fall 2020)
-* The Chinese Univeersityt of Hong Kong:
+* The Chinese University of Hong Kong:
   * Government Reforms (Fall 2017, Fall 2018)
   * Public Human Resources Management (Fall 2017, Spring 2019)
   * Fundamentals of Public Administration (Fall 2017, Spring 2019)
