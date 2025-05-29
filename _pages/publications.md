@@ -17,7 +17,7 @@ Book Chapter
 
 Working paper
 --------
-1.	**Fong, Chi Shun**. Borrowing Credibility from influencers: The Case of Chinese Foreign Propaganda (presented at **MPSA 2025** and accepted by **APSA 2025**).
+1.	**Fong, Chi Shun**. Borrowing Credibility from Influencers: The Case of Chinese Foreign Propaganda (presented at **MPSA 2025** and accepted by **APSA 2025**).
 2.	Liu, Jingping., and **Fong, Chi Shun**. Channelling protest claims: How Chinese official newspapers responded to anti-waste incineration protests from Hu Jintao to Xi Jinping (**under review**).
 3.	Pollert, Issac., Desmarais, Bruce., Cifci, Muhammed., **Fong, Chi Shun**., and Gopal, Ishita. Fraud, Fairness, and Framing: How State Legislators Tweet about Elections (presented at **APSA 2023** and **SPPC 2025**).
 4.	Fong, Chi Shun., and Yuen, Samson. Disaggregating Repression: A Study on the Individual Effects of Repression in Hong Kong’s Anti-Extradition Bill Protests (presented at **MPSA 2022**).
