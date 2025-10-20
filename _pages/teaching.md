@@ -19,7 +19,7 @@ Instructorship
 * Open University of Hong Kong:
   * Government and Politics of Hong Kong (UG level, 2017, 2019) 
 
-Working paper
+Teaching Assistantship
 --------
 * Pennsylvania State University:
   * Political Ideologies (Fall 2021)
