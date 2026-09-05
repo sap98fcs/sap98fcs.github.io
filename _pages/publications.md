@@ -11,24 +11,22 @@ redirect_from:
 Peer-Reviewed Journal Articles
 ==============================
 
-1. **Discursive Channeling: Evidence from Newspaper Responses to Anti-Waste Incineration Protests in China**
+1. **[Discursive Channeling: Evidence from Newspaper Responses to Anti-Waste Incineration Protests in China](https://doi.org/10.1080/17544750.2026.2711048)**
    * [Liu, Jingping](https://www.polyu.edu.hk/apss/people/academic-staff/prof-liu-jingping/), and **Chi Shun Fong**. 2026. *The Chinese Journal of Communication*, 1–19.
-   * [[DOI]](https://doi.org/10.1080/17544750.2026.2711048)
+   * Keywords: Official discourse, social protests, channeling, authoritarianism, environmental politics, China<br><br>
    <details>
-     <summary>Abstract & Keywords</summary>
+     <summary>Abstract</summary>
      <br>
-     <b>Keywords:</b> discursive channeling, state media, protests, environmental politics, China<br><br>
-     <b>Abstract:</b> [Insert abstract text here]
+     <b>Abstract:</b> [Discourse is a critical tool for authoritarian states to control social protests. The literature highlights a hostility–sympathy dichotomy in official discourse, viewing official discourse as either repressing or facilitating protests. In this paper, we propose a more nuanced framework by introducing the concept of discursive channeling. Apart from facilitating protests, official sympathetic discourse can also be used to channel protests—redirecting radical claims into more moderate ones. Drawing on newspapers’ responses to anti-waste incineration protests in China from 2002 to 2021, we identify the early 2010s as a watershed moment. While hostile discourse declined, sympathetic discourse surged—however, its content fundamentally changed. While pre-2010 sympathetic discourse recognized the major claim concerning decision-making on the siting of waste incineration plants, post-2010 sympathetic discourse redirected the focus toward a minor and more moderate claim concerning environmental monitoring and compensation. As a form of indirect repression, this discursive channeling elucidates how authoritarian states mitigate the upward-scale shift in protests and why repression intensified in Xi Jinping’s era without backfiring.]
    </details>
 
-2. **High Level of (Passive) Compliance in a Low-Trust Society: Hong Kong Citizens’ Response Towards the COVID-19 Lockdown**
+2. **[High Level of (Passive) Compliance in a Low-Trust Society: Hong Kong Citizens’ Response Towards the COVID-19 Lockdown](https://doi.org/10.1093/police/paaa090)**
    * [Ho, Lawrence Ka-Ki](https://cve.ntnu.edu.tw/cve/include/index.php?Page=E-3-1&Cate01=%E5%B0%88%E4%BB%BB%E6%95%99%E5%B8%AB&teacher01=177248838678089100f0ce), **Chi Shun Fong**, and [Trevor T. W. Wan](https://www.law.hku.hk/academic_staff/trevor-t-w-wan/). 2021. *Policing: A Journal of Policy and Practice* 15(2): 1046–1061.
-   * [[DOI]](https://doi.org/10.1093/police/paaa090)
+   * Keywords: COVID-19, public compliance, police legitimacy, Hong Kong
    <details>
-     <summary>Abstract & Keywords</summary>
+     <summary>Abstract</summary>
      <br>
-     <b>Keywords:</b> compliance, public trust, COVID-19, policing, Hong Kong<br><br>
-     <b>Abstract:</b> [Insert abstract text here]
+     <b>Abstract:</b> [This study examines the phenomenon of high public compliance with COVID-19 lockdown and social distancing regulations in Hong Kong, set against a backdrop of low political trust and a severe crisis of police legitimacy following the 2019 anti-extradition bill movement. Utilizing an original dataset compiled from police enforcement episodes, judicial proceedings, and online discourse on local social media channels, the paper demonstrates that compliance remained remarkably high despite skepticism toward authority. The findings show that citizens' adherence to public health measures was driven primarily by self-regulation, strategic calculation, historical trauma from the 2003 SARS outbreak, and deep distrust of the government's capabilities, leading civil society to act as informal "civilian enforcers". The study conceptualizes this behavior as "passive compliance"—a conditional, issue-specific adherence to rules rooted in shared self-interest for public health rather than normative respect for legal or state authority.]
    </details>
 
 3. **The 1967 Riots and Hong Kong’s Tortuous Internationalization**
