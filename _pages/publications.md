@@ -14,6 +14,7 @@ Peer-Reviewed Journal Articles
 1. **[Discursive Channeling: Evidence from Newspaper Responses to Anti-Waste Incineration Protests in China](https://doi.org/10.1080/17544750.2026.2711048)**
    * [Liu, Jingping](https://www.polyu.edu.hk/apss/people/academic-staff/prof-liu-jingping/), and **Chi Shun Fong**. 2026. *The Chinese Journal of Communication*, 1–19.
    * Keywords: Official discourse, social protests, channeling, authoritarianism, environmental politics, China<br><br>
+   * [[pdf]()]
    <details>
      <summary>Abstract</summary>
      <br>
@@ -42,14 +43,17 @@ Peer-Reviewed Journal Articles
 Book Chapters
 =============
 
-1. **Movement Leadership in an Era of Connective Action: A Study of Hong Kong’s Student-Led Umbrella Movement**
+1. **[Movement Leadership in an Era of Connective Action: A Study of Hong Kong’s Student-Led Umbrella Movement]()**
    * **Fong, Chi Shun**, and [Samson Yuen](https://gis.hkbu.edu.hk/people/prof-wai-hei-samson-yuen.html). 2021. In Lorenzo Cini, Donatella della Porta, and Cesar Guzmán-Concha (Eds.), *Student Movements in Late Neoliberalism* (pp. 133–155). Palgrave Macmillan, Cham.
    * [[Chapter Link]](https://doi.org/10.1007/978-3-030-75754-0_6)
+   * Keywords: connective action, social movements, student leadership, Umbrella Movement, Hong Kong
+
    <details>
-     <summary>Abstract & Keywords</summary>
+     <summary>Abstract</summary>
      <br>
-     <b>Keywords:</b> connective action, social movements, student leadership, Umbrella Movement, Hong Kong<br><br>
-     <b>Abstract:</b> [Insert abstract text here]
+     <b>Abstract:</b> [Leadership is a crucial factor that influences the dynamics and outcomes of social movements. This chapter explores student leadership in Hong Kong’s Umbrella Movement and suggests that trajectories of protest in the contemporary era cannot be explained simply by the presence or absence of political opportunities but must be understood through looking at the multifaceted interplays between movement leadership and its digital and spatial milieus over time. As the spontaneous eruption of the Umbrella Movement gave rise to a decentralized protest structure, formal protest leaders had to operate under a connective environment in which participants were no longer simply their obedient followers. The emergence of many informal leaders blurred the boundary of leadership and thinned out the authority of formal leaders. By studying the online and offline interaction of the two student organizations—Hong Kong Federation of Students and Scholarism—with ordinary protesters, we demonstrated how such connective dynamics restrained the leading student organizations to collect mandate of the mass from various protest sites and online communities for making a strategic decision. Our findings show that the formation of movement leadership and their decision-making capacity can be both adversely affected by digitally networked activism.
+
+]
    </details>
 
 Working Papers
