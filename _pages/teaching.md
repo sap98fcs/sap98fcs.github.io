@@ -10,7 +10,7 @@ Instructorship
 --------
 * Pennsylvania State University:
   * Introduction to Comparative Politics (UG level, Summer 2025)
-* The Hang Seng University:
+* The Hang Seng University of Hong Kong:
   * Introduction to Social Data Analytics for Public Affairs (UG/PG level, Fall 2023)
 * Hong Kong Community College:
   * China in the Era of Globalization (UG level, Fall 2019)
