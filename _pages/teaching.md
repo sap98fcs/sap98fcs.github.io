@@ -6,18 +6,30 @@ author_profile: true
 redirect_from:
 ---
 
+Syample Syllabi
+--------
+*Undergraduate level (UG)*
+* [Introduction to Comparative Politics_Lecture](/files/course/CP.pdf)
+* [Social Movement and Contentious Politics](files/course/SM.pdf)
+* [Introduction to Quantitative Methods with R](files/course/QM.pdf)
+
+*Advanced/Graudate level (PG)*
+* [Computational Social Science](/files/course/CSS.pdf)
+* [Media and Politics](/files/course/Media.pdf)
+* [Politics and Development of Contemporary China](/files/course/China.pdf)
+
 Instructorship
 --------
 * Pennsylvania State University:
   * Introduction to Comparative Politics (UG level, Summer 2025)
 * The Hang Seng University of Hong Kong:
-  * Introduction to Social Data Analytics for Public Affairs (UG/PG level, Fall 2023)
+  * Introduction to Social Data Analytics for Public Affairs (UG/PG level, Fall 2023) [course evaluation](/files/course/HS_evaluation.pdf) 
 * Hong Kong Community College:
   * China in the Era of Globalization (UG level, Fall 2019)
 * University of Wollongong College Hong Kong:
   * Understanding Contemporary World (UG level, Fall 2019) 
 * Open University of Hong Kong:
-  * Government and Politics of Hong Kong (UG level, 2017, 2019) 
+  * Government and Politics of Hong Kong (UG level, 2017, 2019) [course evaluation](/files/course/OU_evaluation.pdf)
 
 Teaching Assistantship
 --------
