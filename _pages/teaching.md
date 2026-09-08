@@ -9,7 +9,7 @@ redirect_from:
 Syample Syllabi
 --------
 *Undergraduate level (UG)*
-* [Introduction to Comparative Politics_Lecture](/files/course/CP.pdf)
+* [Introduction to Comparative Politics](/files/course/CP.pdf)
 * [Social Movement and Contentious Politics](files/course/SM.pdf)
 * [Introduction to Quantitative Methods with R](files/course/QM.pdf)
 
