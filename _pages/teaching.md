@@ -10,8 +10,8 @@ Syample Syllabi
 --------
 *Undergraduate level (UG)*
 * [Introduction to Comparative Politics](/files/course/CP.pdf)
-* [Social Movement and Contentious Politics](files/course/SM.pdf)
-* [Introduction to Quantitative Methods with R](files/course/QM.pdf)
+* [Social Movement and Contentious Politics](/files/course/SM.pdf)
+* [Introduction to Quantitative Methods with R](/files/course/QM.pdf)
 
 *Advanced/Graudate level (PG)*
 * [Computational Social Science](/files/course/CSS.pdf)
