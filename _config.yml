@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Fong_Gary.jpg"
-  name             : "Gary C.S Fong"
+  name             : "Gary C.S. Fong"
   pronouns         : #NA  
   bio              : "PhD Candidate at Penn State"
-  location         : "State College, PA"
+  location         : "State College, PA/Hong Kong"
   employer         : "Penn State U"
   uri              : # URL
-  email            : "cjf5914@psu.edu" 
+  email            : "sap98fcs@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
