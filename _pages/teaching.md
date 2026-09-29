@@ -25,7 +25,7 @@ Instructorship
 * The Hang Seng University of Hong Kong:
   * Introduction to Social Data Analytics for Public Affairs (UG/PG level, Fall 2023) [[course evaluation](/files/course/HS_evaluation.xlsx)] 
 * Hong Kong Community College:
-  * China in the Era of Globalization (UG level, Fall 2019)
+  * China in the Era of Globalization (UG level, Fall 2019)[[course evaluation](/files/course/HKCC_evaluation.pdf)] 
 * University of Wollongong College Hong Kong:
   * Understanding Contemporary World (UG level, Fall 2019) 
 * Open University of Hong Kong:
